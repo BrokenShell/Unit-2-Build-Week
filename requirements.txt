@@ -1,6 +1,9 @@
+wheel
+Cython
 Brotli==1.0.7
 click==7.1.2
 dash==1.14.0
+dash_daq
 dash-bootstrap-components==0.10.3
 dash-core-components==1.10.2
 dash-html-components==1.0.3
